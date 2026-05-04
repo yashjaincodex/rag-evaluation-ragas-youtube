@@ -2,7 +2,7 @@
 
 A simple Python demo to understand how **RAGAS v0.4** evaluates RAG pipelines — detecting hallucinations, wrong answers, retrieval failures, and off-topic responses.
 
-> 📺 **[YouTube Tutorial](https://www.youtube.com/watch?v=ahDqIQb3_8w&t=9s)** · 🐙 **[GitHub Repo](https://github.com/yashjaincodex/rag-evaluation-ragas-youtube)**
+> 📺 **[YouTube Tutorial](https://www.youtube.com/watch?v=ahDqIQb3_8w&t=9s)**
 
 ---
 
